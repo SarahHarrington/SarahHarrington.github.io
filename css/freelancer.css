@@ -333,3 +333,9 @@ a {
   max-height: 500px;
   max-width: 500px;
 }
+
+.lists {
+  text-align: left;
+  margin: 0;
+  margin-top: -40px;
+}
